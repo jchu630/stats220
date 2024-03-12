@@ -6,7 +6,7 @@ This is my **repo** for my stats220 projects.
 
 Are you in the same class as me? 
 - Connect with me on **LinkedIn**
-- ⭐ the repo because you are classmates with Ferg Muthu
+- ⭐ the repo to stay connected with my projects
 
 *Detailed* tutorial to connect with Jadon Chu on LinkedIn:
 1. Click [here](https://www.linkedin.com/in/jadon-chu-999858295/)
