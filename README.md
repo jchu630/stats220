@@ -15,3 +15,5 @@ Are you in the same class as me?
 ## Links for projects
 - [Github](https://github.com/jchu630/stats220/edit/main/README.md)
 - [inspo_meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fjumbotheelephant%2Fart%2FDrake-Meme-948469769&psig=AOvVaw1u53F13ESeBPkpQs1ITs8f&ust=1710317493717000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCChrKj7oQDFQAAAAAdAAAAABAD) (The punchline are in the right boxes. I will change the first right box to *Stats225* and the second box to *Stats220*). 
+
+![Image](https://miro.medium.com/v2/resize:fit:818/1*VR-XNA60etBQj-r57knvKA.png)
